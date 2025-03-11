@@ -373,6 +373,7 @@
 "Assets/beantowel/Aerosol/Scripts/Model.cs"
 "Assets/beantowel/Aerosol/Scripts/Util.cs"
 "Assets/scripts/FirstPersonCamera.cs"
+"Assets/SunRotation.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
