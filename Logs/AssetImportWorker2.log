@@ -335,3 +335,47 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1325.026597 seconds.
+  path: Assets/Monitor
+  artifactKey: Guid(be7c2d85de020ec42b78f1cf29dd8c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monitor using Guid(be7c2d85de020ec42b78f1cf29dd8c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f2d90dbdbd8030a2ee4b5420fe6c7608') in 0.012258 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Monitor/Seatmonitor_standardSurface1_MaskMap.png
+  artifactKey: Guid(b37619f1c791e884f8bc810926245f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monitor/Seatmonitor_standardSurface1_MaskMap.png using Guid(b37619f1c791e884f8bc810926245f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e73d72c5b6566974dad79abb68254f27') in 0.080142 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Monitor/Seatmonitor_standardSurface1_Normal.png
+  artifactKey: Guid(c8a98186774ac7a4c99a9ce2c393bcc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monitor/Seatmonitor_standardSurface1_Normal.png using Guid(c8a98186774ac7a4c99a9ce2c393bcc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '807d0fcb543e51dfe9498aa173410be1') in 0.029795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Monitor/Seatmonitor_standardSurface1_BaseMap.png
+  artifactKey: Guid(46343455a552fbd46a31754ea112a79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monitor/Seatmonitor_standardSurface1_BaseMap.png using Guid(46343455a552fbd46a31754ea112a79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a631221eac00630c1ce1213bb7901516') in 0.024155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
