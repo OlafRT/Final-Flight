@@ -1,2 +1,6 @@
 Library/PackageCache/com.unity.burst@1.8.18/.Runtime/libburst-llvm-16.dylib
 /Temp
+/Library/Artifacts
+/Library/BurstCache
+Library/ArtifactDB
+/Temp
